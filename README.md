@@ -5,9 +5,9 @@ TensorFlow
 
 - [x] 1.0.1 
 
-- [x] 1.1.0rc
+- [x] 1.1.0-rc
 
-- [x] 1.2.0rc
+- [x] 1.2.0-rc
 
 compile instructions:
 
